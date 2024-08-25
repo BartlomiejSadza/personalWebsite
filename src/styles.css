@@ -48,14 +48,21 @@ section img.background {
 h1 {
   font-family: "Cormorant Garamond", serif;
   font-size: 7rem;
-  font-weight: 400;
+  color: aliceblue;
+  font-weight: 800;
   line-height: 0.8;
+  text-shadow: #4e567e 5px 5px;
   margin: 0;
 }
-
+#oki {
+  color: black;
+  text-shadow: 3px 3px lightblue;
+}
 h2 {
+  text-shadow: #4e567e 5px 5px;
   font-size: 2rem;
-  font-weight: 400;
+  color: aliceblue;
+  font-weight: 800;
   margin: 0;
   padding-top: 1rem;
 }

@@ -22,9 +22,9 @@ const Header = () => {
       }}
     >
       <a href="#home">Home</a>
-      <a href="#about">About</a>
+      <a href="#about">O mnie</a>
       <a href="#portfolio">Portfolio</a>
-      <a href="#footer">Contact</a>
+      <a href="#footer">Kontakt</a>
     </div>
   );
 };
